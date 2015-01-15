@@ -24,6 +24,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Files in this repository
 
-*__CodeBook.md__: information about the variables, data and transformations from the raw data to the tidy data.
-* __run_analysis.R__: R script which transforms the raw data set into the tidy one
-* __README.md__: this file
+* __CodeBook.md__: information about the variables, data and transformations from the raw data to the tidy data.
+* __run_analysis.R__: R script which transforms the raw data set into the tidy one.
+* __tidyData.txt__: the tidy data
+* __README.md__: this file.
