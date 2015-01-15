@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Project
 
-Course project for Coursera course "Getting and Cleaning Data course"
+Course project for Coursera course "Getting and Cleaning Data"
 
 ### Project Description
 
