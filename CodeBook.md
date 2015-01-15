@@ -6,6 +6,7 @@ Information about the variables, data and transformations from the raw data to t
 course "Getting and Cleaning Data".
 
 [The raw data set can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 [A full description for the data set is here.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Data transformation
